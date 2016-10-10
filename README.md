@@ -1,4 +1,4 @@
-# Rabbmit MQ Management PowerShell Script
+# RabbmitMQ Management PowerShell Script
 RabbitMQ management related tools/scripts
 
 PS> . .\rabbitmq-management.ps1
